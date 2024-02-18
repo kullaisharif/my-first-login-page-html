@@ -1,0 +1,49 @@
+form{
+    width:300px;
+    height:340px;
+    display:grid;
+    place-content:center;
+    background-color: rgba(240, 216, 34, 0.604);
+    border-color: black;
+    border-radius: 80px;
+    place-content: center;
+    margin-top:150px;
+    margin-left: 900px;
+    margin-right: 120px;
+    
+
+}
+input{
+    height:25px;
+    width:220px;
+    border-radius: 15px;
+    background-color: whitesmoke;
+    display: grid;
+    place-content: center;
+    margin-top:8px;
+    margin-bottom:10px;
+    
+}
+.kulfi{
+    height:30px;
+    width:100px;
+    background-position: 0cm;
+    background-color: rgb(132, 144, 144);
+    display:center;
+    border-radius: 90px;
+    color:rgb(189, 38, 38);
+}
+body{
+    height:350px;
+    width:320px;
+    place-content:center;
+    border-radius: 80px;
+    display: center;
+}
+body{
+    width:470px;
+    height: 240px;
+    display :grid;
+    place-content: center;
+    margin-top: 100px;
+}
